@@ -12,7 +12,7 @@
 
 An enhanced version of [honeypot-wasp](https://github.com/urbanware-org/honeypot-wasp) with a fake username and password prompt.
 
-[Top](#honeypot-hornet-)
+[Top](#honeypot-hornet)
 
 ## Details
 
@@ -20,7 +20,7 @@ Many websites provide administrative access to a management interface for the we
 
 In case your website does not have such a directory (or with a different name), you can create a fake one and use this honeypot to see the access attempts.
 
-[Top](#honeypot-hornet-)
+[Top](#honeypot-hornet)
 
 ## Usage
 
@@ -64,7 +64,7 @@ After that the attempted login has been logged into the given log file. For exam
 [2018-04-28 - 09:42:10] User agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
 ```
 
-[Top](#honeypot-hornet-)
+[Top](#honeypot-hornet)
 
 ## Contact
 
@@ -72,4 +72,4 @@ Any suggestions, questions, bugs to report or feedback to give?
 
 You can contact me by sending an email to <dev@urbanware.org>.
 
-[Top](#honeypot-hornet-)
+[Top](#honeypot-hornet)
