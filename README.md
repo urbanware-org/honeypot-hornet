@@ -4,6 +4,7 @@
 *   [Definition](#definition)
 *   [Details](#details)
 *   [Usage](#usage)
+*   [Contact](#contact)
 
 ----
 
@@ -62,5 +63,13 @@ After that the attempted login has been logged into the given log file. For exam
 [2018-04-28 - 09:42:10] IP address: 192.168.1.2
 [2018-04-28 - 09:42:10] User agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
 ```
+
+[Top](#honeypot-hornet-)
+
+## Contact
+
+Any suggestions, questions, bugs to report or feedback to give?
+
+You can contact me by sending an email to <dev@urbanware.org>.
 
 [Top](#honeypot-hornet-)
