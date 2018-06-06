@@ -39,7 +39,7 @@ Installing the honeypot is simple.
 
 ### Function test
 
-<img src="https://github.com/urbanware-org/honeypot-hornet/blob/master/login.png" alt="Fake login prompt" align="right"/>Use your web browser and navigate to the directory on your website which contains the honeypot file. It will show a login prompt asking for the username and password.
+<img src="https://raw.githubusercontent.com/urbanware-org/honeypot-hornet/master/login.png" alt="Fake login prompt" align="right"/>Use your web browser and navigate to the directory on your website which contains the honeypot file. It will show a login prompt asking for the username and password.
 
 The login data can also be given via URL, for example:
 
