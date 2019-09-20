@@ -34,7 +34,7 @@ Installing the honeypot is simple.
     ```
 1.  Create an empty text file with that name.
 1.  Rename `honeypot-hornet.php` to `index.php` or `index.html`.
-1.  Create the desired directory where you want to install the honeypot on your web server, e. g. `/admin`.
+1.  Create the desired directory where you want to install the honeypot on your web server, e.g. `/admin`.
 1.  Upload the renamed file as well as the empty text file into that directory.
 
 ### Function test
