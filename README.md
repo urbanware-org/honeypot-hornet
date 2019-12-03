@@ -29,9 +29,11 @@ In case your website does not have such a directory (or with a different name), 
 Installing the honeypot is simple.
 
 1.  Edit `honeypot-hornet.php` and change the name of the log file to something less guessable than `logfile.txt`.
+
     ```php
     $file = 'logfile.txt';
     ```
+
 1.  Create an empty text file with that name.
 1.  Rename `honeypot-hornet.php` to `index.php` or `index.html`.
 1.  Create the desired directory where you want to install the honeypot on your web server, e.g. `/admin`.
