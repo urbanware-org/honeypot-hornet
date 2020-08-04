@@ -49,7 +49,7 @@ The login data can also be given via URL, for example:
 https://www.foo.bar/admin?username=admin&password=asdf1234
 ```
 
-*   If a user name other than `admin` is given it will return that the user does not exist.
+*   If a username other than `admin` is given it will return that the user does not exist.
 *   If you try logging in as `admin` it will always return that the password for `admin` is invalid.
 *   If no username and password is given it will simply ask to log in.
 
