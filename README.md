@@ -10,7 +10,7 @@
 
 ## Definition
 
-An enhanced version of [honeypot-wasp](https://github.com/urbanware-org/honeypot-wasp) with a fake username and password prompt.
+An enhanced version of *[honeypot-wasp](https://github.com/urbanware-org/honeypot-wasp)* with a fake username and password prompt.
 
 [Top](#honeypot-hornet)
 
