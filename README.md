@@ -20,6 +20,9 @@ Many websites provide administrative access to a management interface for the we
 
 In case your website does not have such a directory (or with a different name), you can create a fake one and use this honeypot to see the access attempts.
 
+> [!NOTE]
+> This project was **officially discontinued** as of August 2025 and is **no longer maintained**.
+
 [Top](#honeypot-hornet)
 
 ## Usage
@@ -70,8 +73,8 @@ After that the attempted login has been logged into the given log file. For exam
 
 ## Contact
 
-Any suggestions, questions, bugs to report or feedback to give?
+As mentioned above, this project has been discontinued. For this reason, no new features will be implemented, existing features will not be enhanced and remaining bugs will not be fixed either.
 
-You can contact me by sending an email to [dev@urbanware.org](mailto:dev@urbanware.org) or by opening a *GitHub* issue (which I would prefer if you have a *GitHub* account).
+However, if you have questions about it, you can contact me by sending an email to <dev@urbanware.org>.
 
 [Top](#honeypot-hornet)
