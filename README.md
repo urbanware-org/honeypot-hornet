@@ -73,7 +73,7 @@ After that the attempted login has been logged into the given log file. For exam
 
 ## Contact
 
-As mentioned above, this project has been discontinued. For this reason, no new features will be implemented, existing features will not be enhanced and remaining bugs will not be fixed either.
+As mentioned above, this project was discontinued. For this reason, no new features will be implemented, existing features will not be enhanced and remaining bugs will not be fixed either.
 
 However, if you have questions about it, you can contact me by sending an email to <dev@urbanware.org>.
 
